@@ -28,7 +28,7 @@ management:
 info:
   app:
     name: "restuarant services"
-    description: " ohhh......."
+    description: " "
     version: "1.0V"
 
   
