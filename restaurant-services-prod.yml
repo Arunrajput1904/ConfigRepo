@@ -28,7 +28,7 @@ management:
 info:
   app:
     name: "restuarant services"
-    description: "hello jii "
+    description: "hello"
     version: "1.0V"
 
   
